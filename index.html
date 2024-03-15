@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="id-ID">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bookshelf App</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="asset/icon/book1.png"/>
+  </head>
+  <body>
+    <header class="head_bar">
+      <img src="" class="icon/book1">
+      <h1 class="head_bar__title">Bookshelf App
+         <a href="https://github.com/SherinaNf"> SherinaNf</a>
+      </h1>
+    </header>
+    <main>
+      <section class="input_section">
+        <h2>Masukkan Buku Baru</h2>
+        <form id="inputBook">
+          <div class="input">
+            <label for="inputBookTitle">Judul</label>
+            <input
+              id="inputBookTitle"
+              type="text"
+              placeholder="Cth: Dream"
+              required
+            />
+          </div>
+          <div class="input">
+            <label for="inputBookAuthor">Penulis</label>
+            <input
+              id="inputBookAuthor"
+              type="text"
+              placeholder="Cth: Sherina Nurul Fasha"
+              required
+            />
+          </div>
+          <div class="input">
+            <label for="inputBookYear">Tahun</label>
+            <input
+              id="inputBookYear"
+              type="number"
+              placeholder="Cth: 2024"
+              required
+            />
+          </div>
+          <div class="input_inline">
+            <label for="inputBookIsComplete">Selesai dibaca</label>
+            <input id="inputBookIsComplete" type="checkbox" />
+          </div>
+          <button id="bookSubmit" type="submit">
+            Masukkan Buku ke rak <span>Belum selesai dibaca</span>
+          </button>
+        </form>
+      </section>
+
+      <section class="search_section">
+        <h2>Cari Buku</h2>
+        <form id="searchBook">
+          <label for="searchBookTitle">Judul</label>
+          <input id="searchBookTitle" type="text" placeholder="Cari judul buku... " />
+          <button id="searchSubmit" type="submit">Cari</button>
+        </form>
+      </section>
+
+      <section class="book_shelf">
+        <h2>Belum selesai dibaca</h2>
+
+        <div id="incompleteBookshelfList" class="book_list"></div>
+      </section>
+
+      <section class="book_shelf">
+        <h2>Selesai dibaca</h2>
+
+        <div id="completeBookshelfList" class="book_list"></div>
+      </section>
+    </main>
+  <footer>
+    <p>&copy; 2024 created by Sherina Nurul Fasha </p>
+</footer>
+
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -32,3 +32,6 @@ Berikut contoh data riilnya:
 ```
 > Catatan:
 Untuk id buku pada tiap buku yang disimpan haruslah unik. Tips dalam menetapkan nilai untuk adalah Anda bisa memanfaatkan nilai timestamp. Untuk mendapatkan nilai timestamp di JavaScript cukup mudah, cukup dengan menuliskan expressions +new Date().
+### Kriteria 2: Memiliki Dua Rak Buku
+<span style="color:blue;">Kata1</span> <span style="color:red;">Kata2</span> <span style="color:green;">Kata3</span>
+

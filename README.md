@@ -20,3 +20,14 @@ Untuk lebih jelasnya, terdapat 5 kriteria utama pada Bookshelf Apps yang harus A
   isComplete: boolean,
 }
 ```
+Berikut contoh data riilnya:
+```
+{
+  id: 3657848524,
+  title: 'Harry Potter and the Philosopher\'s Stone',
+  author: 'J.K Rowling',
+  year: 1997,
+  isComplete: false,
+}
+```
+

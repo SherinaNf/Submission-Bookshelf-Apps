@@ -48,12 +48,12 @@ Submission Anda akan dinilai oleh Tim Reviewer guna menentukkan kelulusan Anda. 
 * Tambahkan fitur pencarian untuk mem-filter buku yang ditampilkan pada rak sesuai dengan title buku yang dituliskan pada kolom pencarian.
 * Berkreasilah dengan membuat proyek Bookshelf Apps tanpa menggunakan project starter.
 * Menuliskan kode dengan bersih. <br>
-  &nbsp;&nbsp;&nbsp;&#x25CB; Bersihkan comment dan kode yang tidak digunakan.
+  &nbsp;&nbsp;&nbsp;&#x25CB; Bersihkan comment dan kode yang tidak digunakan. <br>
   &nbsp;&nbsp;&nbsp;&#x25CB; Indentasi yang sesuai.
 * Terdapat improvisasi fitur seperti (pilih satu): <br>
-  &nbsp;&nbsp;&nbsp;&#x25CB; Custom Dialog ketika menghapus buku.
-  &nbsp;&nbsp;&nbsp;&#x25CB; Dapat edit buku.
-  &nbsp;&nbsp;&nbsp;&#x25CB; dsb.
+  &nbsp;&nbsp;&nbsp;&#x25CB; Custom Dialog ketika menghapus buku. <br>
+  &nbsp;&nbsp;&nbsp;&#x25CB; Dapat edit buku. <br> 
+  &nbsp;&nbsp;&nbsp;&#x25CB; dsb. <br>
 ## Ketentuan Berkas Submission
 * Berkas submission yang dikirim merupakan folder proyek dari Bookshelf Apps dalam bentuk ZIP. 
 * Pastikan di dalam folder proyek yang Anda kirim terdapat berkas HTML, CSS, dan JavaScript.

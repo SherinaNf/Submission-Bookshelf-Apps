@@ -11,3 +11,11 @@ Untuk lebih jelasnya, terdapat 5 kriteria utama pada Bookshelf Apps yang harus A
 ### Kriteria 1: Mampu Menambahkan Data Buku
 - Bookshelf Apps harus mampu menambahkan data buku baru.
 * Data buku yang disimpan merupakan objek JavaScript dengan struktur berikut:
+``` {
+  id: string | number,
+  title: string,
+  author: string,
+  year: number,
+  isComplete: boolean,
+}
+```

@@ -48,8 +48,9 @@ Submission Anda akan dinilai oleh Tim Reviewer guna menentukkan kelulusan Anda. 
 * Tambahkan fitur pencarian untuk mem-filter buku yang ditampilkan pada rak sesuai dengan title buku yang dituliskan pada kolom pencarian.
 * Berkreasilah dengan membuat proyek Bookshelf Apps tanpa menggunakan project starter.
 * Menuliskan kode dengan bersih.
-   &#x25CB; Item 1
-   &#x25CB; Item 2
+  &nbsp;&nbsp;&nbsp; &#x25CB; Bersihkan comment dan kode yang tidak digunakan.
+   &#x25CB; Indentasi yang sesuai.
+
 
 
 

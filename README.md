@@ -47,7 +47,7 @@ Untuk id buku pada tiap buku yang disimpan haruslah unik. Tips dalam menetapkan 
 Submission Anda akan dinilai oleh Tim Reviewer guna menentukkan kelulusan Anda. Untuk lulus dari kelas ini, proyek Bookshelf Apps harus memenuhi seluruh kriteria yang telah disebutkan pada bagian Kriteria Bookshelf Apps. Submission Anda akan dinilai oleh Tim Reviewer dengan skala 1-5. Untuk mendapatkan nilai tinggi, silakan penuhi saran-saran berikut ini:
 * Tambahkan fitur pencarian untuk mem-filter buku yang ditampilkan pada rak sesuai dengan title buku yang dituliskan pada kolom pencarian.
 * Berkreasilah dengan membuat proyek Bookshelf Apps tanpa menggunakan project starter.
-* Menuliskan kode dengan bersih.
+* Menuliskan kode dengan bersih. <br>
   &nbsp;&nbsp;&nbsp; &#x25CB; Bersihkan comment dan kode yang tidak digunakan.
    &#x25CB; Indentasi yang sesuai.
 

@@ -9,5 +9,5 @@ Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerj
 Buatlah aplikasi web yang dapat memasukan data buku ke dalam rak, memindahkan data buku antar rak, dan menghapus data buku dari rak. 
 Untuk lebih jelasnya, terdapat 5 kriteria utama pada Bookshelf Apps yang harus Anda buat.
 ### Kriteria 1: Mampu Menambahkan Data Buku
-* Bookshelf Apps harus mampu menambahkan data buku baru.
+- Bookshelf Apps harus mampu menambahkan data buku baru.
 * Data buku yang disimpan merupakan objek JavaScript dengan struktur berikut:

@@ -71,6 +71,7 @@ Beberapa hal yang perlu Anda ketahui mengenai proses review
 * Tidak disarankan untuk melakukan submit berkali-kali karena akan memperlama proses penilaian.
 * Anda akan mendapatkan notifikasi hasil review submission via email. Status submission juga bisa dilihat dengan mengecek di halaman submission.
 
-> Link [Sertifikat] dari DICODING (https://www.dicoding.com/certificates/L4PQQD1OQPO1).
+> Ini adalah [tautan ke Google](https://www.google.com/).
+
 
 

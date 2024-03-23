@@ -5,3 +5,4 @@ Mengenal localStorage dan sessionStorage sebagai Web Storage. Serta menggunakan 
 Terakhir, Anda sudah mampu membuat website memiliki fungsionalitas mengelola To-Do menggunakan JavaScript dengan memanfaatkan teknik manipulasi DOM, Event, dan Web Storage melalui latihan yang diberikan pada kelas ini.
 
 Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerjakan tugas yakni membuat proyek Bookshelf Apps sesuai kriteria lengkap di bawah ini. Tim Reviewer akan memeriksa pekerjaan Anda dan memberikan reviu pada proyek yang Anda buat.
+## Kriteria

@@ -48,9 +48,28 @@ Submission Anda akan dinilai oleh Tim Reviewer guna menentukkan kelulusan Anda. 
 * Tambahkan fitur pencarian untuk mem-filter buku yang ditampilkan pada rak sesuai dengan title buku yang dituliskan pada kolom pencarian.
 * Berkreasilah dengan membuat proyek Bookshelf Apps tanpa menggunakan project starter.
 * Menuliskan kode dengan bersih. <br>
-  &nbsp;&nbsp;&nbsp; &#x25CB; Bersihkan comment dan kode yang tidak digunakan.
-   &#x25CB; Indentasi yang sesuai.
-
+  &nbsp;&nbsp;&nbsp;&#x25CB; Bersihkan comment dan kode yang tidak digunakan.
+  &nbsp;&nbsp;&nbsp;&#x25CB; Indentasi yang sesuai.
+* Terdapat improvisasi fitur seperti (pilih satu): <br>
+  &nbsp;&nbsp;&nbsp;&#x25CB; Custom Dialog ketika menghapus buku.
+  &nbsp;&nbsp;&nbsp;&#x25CB; Dapat edit buku.
+  &nbsp;&nbsp;&nbsp;&#x25CB; dsb.
+## Ketentuan Berkas Submission
+* Berkas submission yang dikirim merupakan folder proyek dari Bookshelf Apps dalam bentuk ZIP. 
+* Pastikan di dalam folder proyek yang Anda kirim terdapat berkas HTML, CSS, dan JavaScript.
+* Jangan memasukan berkas lain yang tidak digunakan pada proyek Anda. Karena itu hanya memperbesar ukuran ZIP dan membuat proses reviu menjadi lebih lama.
+* Anda boleh menambahkan berkas aset seperti gambar selama aset tersebut digunakan pada proyek Anda.
+## Submission Anda akan Ditolak Bila
+* Kriteria dari Bookshelf Apps tidak terpenuhi.
+* Ketentuan berkas submission tidak terpenuhi.
+* Menggunakan JQuery atau library serupa untuk memudahkan proses manipulasi DOM (kami ingin memastikan Anda sudah mampu menggunakan teknik dasar manipulasi DOM).
+* Mengirimkan kode JavaScript yang telah di-minify.
+* Melakukan kecurangan seperti tindakan plagiasi.
+## Ketentuan Proses Review
+Beberapa hal yang perlu Anda ketahui mengenai proses review
+* Tim Reviewer akan mengulas submission Anda dalam waktu selambatnya 3 (tiga) hari kerja (tidak termasuk Sabtu, Minggu, dan hari libur nasional).
+* Tidak disarankan untuk melakukan submit berkali-kali karena akan memperlama proses penilaian.
+* Anda akan mendapatkan notifikasi hasil review submission via email. Status submission juga bisa dilihat dengan mengecek di halaman submission.
 
 
 
